@@ -68,7 +68,7 @@ Market competition exhibits **moderate-to-high fragmentation**:
 
 ## 💻 Open-Source GitHub Projects
 
-*Sorted in descending order of GitHub star count.*
+*Sorted in descending order of GitHub Stars_Count.*
 
 ### 1. **[Jema.ai (jasper-alternative-gpt)](https://github.com/yuvalsuede/jasper-alternative-gpt)**
 <a href="https://github.com/yuvalsuede/jasper-alternative-gpt/stargazers"><img src="https://img.shields.io/github/stars/yuvalsuede/jasper-alternative-gpt?style=social&color=white" alt="Stars"/></a>
@@ -204,7 +204,7 @@ Contributions are welcome! Help expand this directory by submitting new producti
 2. **Add / Update an Entry** in `README.md` maintaining alphabetical or star/valuation-sorted order.
 3. **Include Key Metadata**:
    - Project Name & Official Repository / Website Link
-   - Accurate Star Badge (`style=social&color=white`) linking to the stargazers page
+   - Accurate Stars_Badge (`style=social&color=white`) linking to the stargazers page
    - 1–2 sentence description of architecture and distinctive capabilities
    - Tech stack, licensing, and primary target use case
 4. **Submit a Pull Request** with a brief summary of the project.
