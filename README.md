@@ -32,78 +32,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global AI email assistant and AI-powered sales outreach market is estimated at approximately **$2.5B to $4B** (expanding toward $15B+ by the early 2030s at an estimated 15–22% CAGR). The sector is **highly to moderately fragmented**—characterized by thousands of specialized AI writing and icebreaker micro-SaaS tools competing at the edge, alongside intense pressure from large horizontal platforms (such as HubSpot, Google Workspace, and Microsoft 365 Copilot) that natively embed generative email workflows.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Lavender](https://www.lavender.ai/)**
-
-  **Real-time AI email coach** that scores and improves outbound emails before you send, with personalization suggestions and team benchmarking. Integrates directly into Gmail and Outlook . **Pricing**: Free tier available; Individual $29/month; Teams $49/user/month . **Free tier**: Yes, limited coaching. **Best for**: sales reps and founders wanting measurable reply-rate improvement without leaving their email client—**note**: it coaches, it does not send emails for you .
-
-
-
-- **[Regie.ai](https://www.regie.ai/)**
-
-  **AI sales content generation platform** with prospect research and personalized outreach sequences. **Pricing**: Quote-only; enterprise contracts. **Free tier**: None. **Best for**: sales teams wanting AI-generated sequences grounded in prospect data at scale.
-
-
-
-- **[Warmer.ai](https://warmer.ai/)**
-
-  **AI prospect research and personalization tool** that enriches lead lists and drafts personalized outreach. **Pricing**: Freemium; paid tiers from $79 to $399 according to third-party listings . **Free tier**: Yes, limited usage. **Best for**: sales teams wanting automated prospect research feeding into personalized email drafts.
-
-
-
-- **[Copy.ai](https://www.copy.ai/)**
-
-  **AI copywriting platform** with email generation templates and workflow automation. **Pricing**: Free tier; paid plans per user. **Free tier**: Yes, limited credits. **Best for**: marketers wanting a general-purpose AI writer with email-specific templates.
-
-
-
-- **[Jasper](https://www.jasper.ai/)**
-
-  **Enterprise AI marketing platform** with email campaign generation and brand voice controls. **Pricing**: Quote-only; tiered by seats and features. **Free tier**: Trial available. **Best for**: marketing teams wanting brand-consistent email copy at scale.
-
-
-
-- **[Smartwriter.ai](https://www.smartwriter.ai/)**
-
-  **AI cold email personalization** with prospect research from LinkedIn and web sources. **Pricing**: Quote-only; tiered by credits. **Free tier**: Trial available. **Best for**: outbound teams wanting research-backed personalization without manual prospect digging.
-
-
-
-- **[Lyne.ai](https://www.lyne.ai/)**
-
-  **AI email personalization** with first-line generation and prospect research. **Pricing**: Quote-only; credit-based. **Free tier**: Trial available. **Best for**: cold emailers wanting AI-generated opening lines based on prospect activity.
-
-
-
-- **[HubSpot AI Email Writer](https://www.hubspot.com/)**
-
-  **Native AI email generation** within HubSpot's CRM and marketing tools. **Pricing**: Included with HubSpot paid tiers; quote-based. **Free tier**: Limited. **Best for**: HubSpot users wanting AI email drafts without leaving their CRM.
-
-
-
-- **[MailMaestro](https://www.maestrolabs.com/)** (Flowrite successor)
-
-  **AI email assistant** that replaced Flowrite after Maestro Labs acquired its email-writing business in January 2025. Adds inbox triage, thread summaries, and meeting notes on top of email generation . **Pricing**: Free plan available; Pro from $12/seat/month (annual) or $15 monthly; TeamsMaestro $17/seat/month . **Free tier**: Yes. **Best for**: former Flowrite users or anyone wanting AI email generation with inbox management in Gmail/Outlook.
-
-
-
-- **[Hypotenuse AI](https://www.hypotenuse.ai/)**
-
-  **AI content generation** including email copy and marketing content. **Pricing**: Quote-only; tiered by credits. **Free tier**: Trial available. **Best for**: content teams wanting AI-generated email copy alongside broader marketing content.
-
+| Platform | Company Scale (Revenue / Valuation) | Pricing | Free Tier / Trial Limits | Key Focus & Use Case |
+| :--- | :--- | :--- | :--- | :--- |
+| **[HubSpot AI Email Writer](https://www.hubspot.com/)** | ~$13.5B Market Cap (~$3.13B ARR) | Free CRM tier; Starter from **$15/seat/mo** (annual) or $20/mo | **Free forever plan**: 2,000 email sends/month with HubSpot branding and basic AI content assistance | Native CRM-integrated generative email for marketing and sales teams |
+| **[Jasper](https://www.jasper.ai/)** | ~$1.5B Valuation (~$131M raised, ~$100M+ ARR) | Pro tier from **$59/seat/mo** (annual) or $69/mo; Business custom | **7-day free trial** of Pro plan (credit card required upfront; full Pro feature access) | Enterprise marketing copy, brand voice governance, and multi-channel campaign generation |
+| **[Copy.ai](https://www.copy.ai/)** | ~$100M+ Valuation (~$14M raised, ~$30M–$35M ARR) | Chat tier from **$24/mo** (annual) or $29/mo (up to 5 seats); Agents from $249/mo | **Free trial/grant**: 200 one-time test bonus credits upon sign-up (no perpetual free generation tier) | AI-native GTM workflows, sales copy, and multi-model chat |
+| **[Regie.ai](https://www.regie.ai/)** | ~$65.6M Raised (~$15.5M ARR) | Pro tier from **$49/seat/mo**; Team from $150/mo; Enterprise AI SEP from $180/seat/mo | **Free plan**: 250 one-time credits with workspace access for Gmail/Outlook drafting | Prospect research, enterprise sales cadence orchestration, and cold sequence generation |
+| **[Lavender](https://www.lavender.ai/)** | ~$14.2M Raised (~$11.9M ARR) | Starter from **$29/user/mo**; Pro $49/mo; Teams $69/mo | **Free forever plan**: Limited to 5 email coachings/month; 7-day free trial on paid plans | Real-time inbox email coaching, email scoring, and reply-rate optimization inside Gmail/Outlook |
+| **[Warmer.ai](https://warmer.ai/)** | ~$10.4M Seed Valuation | Growth plan from **$79/mo** (750 credits/mo); Pro $149/mo; Scale $399/mo | **Free trial**: Small test credit allowance to generate sample lines (no credit card required upfront) | Automated lead list enrichment and personalized cold email intro/icebreaker generation |
+| **[Hypotenuse AI](https://www.hypotenuse.ai/)** | ~$150K Raised (YC) (~$2.8M–$3M ARR) | Basic/Starter tier from **$19/mo** (annual) or $29/mo; Growth $59/mo | **7-day free trial**: Access to test templates and content generation (no credit card required) | AI content generation for e-commerce, product descriptions, and marketing emails |
+| **[MailMaestro](https://www.maestrolabs.com/)** | ~$1.3M Raised (Seed) | Pro tier from **$12/seat/mo** (annual) or $15/mo; TeamsMaestro $17/seat/mo | **Free forever plan**: Capped at 3 AI requests/week with MailMaestro watermark | AI email drafting, thread summaries, and inbox triage for Outlook and Gmail (Flowrite successor) |
+| **[Smartwriter.ai](https://www.smartwriter.ai/)** | Bootstrapped (~$300K ARR) | Basic plan from **$49/mo** (annual) or $59/mo (400 lead credits/mo); Popular $149/mo | **7-day free trial**: Full access to cold email and lead personalization tools (no credit card required) | Automated personalized intro lines using LinkedIn and web scraping data |
+| **[Lyne.ai](https://lyne.ai/)** | Bootstrapped (PAYG model) | Pay-as-you-go from **$0.25/credit** ($0/mo base); Cold Email Custom $120/mo (2,000 credits) | **Free sign-up / PAYG tier**: $0/mo base access where users pay only per verified generated line (~$0.25/line) | High-volume first-line icebreaker generation from prospect profile scraping |
 
 
 ## Open-Source GitHub Projects
